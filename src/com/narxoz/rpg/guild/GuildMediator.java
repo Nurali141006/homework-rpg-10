@@ -1,8 +1,5 @@
 package com.narxoz.rpg.guild;
 
-/**
- * Central communication contract for guild colleagues.
- */
 public interface GuildMediator {
 
     void register(GuildMember member);
